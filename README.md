@@ -1,36 +1,55 @@
-# ScreenGraph Fusion
+# Game Launcher for Roku
 
-Description
-ScreenGraph Fusion is a solution for seamlessly integrates roScreen and SceneGraph paradigms, enabling the smooth combination of their respective functionalities. This project provides a comprehensive framework and example implementation to demonstrate how to leverage the power of roScreen within the SceneGraph environment.
+The Game Launcher for Roku is a custom application that integrates multiple RoScreen games into a Scenegraph channel, providing a seamless gaming experience for Roku users.
 
-By merging the capabilities of roScreen and SceneGraph, developers can achieve a unified and cohesive user interface experience. ScreenGraph Fusion simplifies the process of incorporating roScreen components into SceneGraph applications, eliminating the need for separate development approaches. It opens up new possibilities for enhancing and expanding existing SceneGraph projects with roScreen functionalities.
+## Features
 
-Features
-Seamless integration of roScreen within the SceneGraph framework
-Efficient combination of roScreen and SceneGraph components
-Example implementation showcasing the unified approach
-Comprehensive documentation and code samples
-Streamlined migration process for existing SceneGraph projects
-Increased flexibility and extensibility in user interface design
-Installation
-Clone the repository: git clone https://github.com/your-repo.git
-Navigate to the project directory: cd ScreenGraphFusion
-Set up the required dependencies as outlined in the installation instructions.
-Follow the documentation and code samples to integrate roScreen components within your SceneGraph project.
-Usage
-Study the provided documentation to understand the concept of ScreenGraph Fusion and its benefits.
-Explore the example implementation to see how roScreen and SceneGraph components can seamlessly work together.
-Utilize the code samples and guidelines to integrate roScreen functionality into your existing SceneGraph projects.
-Experiment with different scenarios and combinations of roScreen and SceneGraph elements to achieve the desired user experience.
-Leverage the flexibility and extensibility of ScreenGraph Fusion to enhance your application's interface.
-Contributing
-Contributions are welcome! If you have any suggestions, bug reports, or enhancements, please open an issue in the GitHub repository. We appreciate your feedback and involvement in improving the ScreenGraph Fusion project.
+- User-friendly interface for navigating and selecting games
+- Integration of RoScreen games within the Scenegraph channel
+- Smooth transitions between the launcher and the games
+- Handling of game exits and returns to the launcher
+- Compatibility with various Roku devices
 
-License
-This project is licensed under the MIT License.
+## Requirements
 
-Acknowledgements
-We would like to express our gratitude to the developers and contributors who have made this project possible. Your efforts and dedication are greatly appreciated.
+- Roku device
+- [Roku Development Environment](https://developer.roku.com/docs/developer-program/getting-started/developer-setup.md)
 
-Contact
-For any inquiries or questions, please contact us at your-email@example.com.
+## Installation
+
+1. Clone or download the repository to your local machine.
+
+2. Set up a Scenegraph channel using Roku's development tools. Refer to the [Roku Developer Documentation](https://developer.roku.com/docs) for detailed instructions on creating a Scenegraph channel.
+
+3. Run the Code in your device
+
+## Contributing
+
+Contributions to the Game Launcher for Roku project are welcome! If you would like to contribute, please follow these steps:
+
+1. Fork the repository.
+
+2. Create a new branch for your feature or bug fix.
+
+3. Make your changes and ensure they are properly tested.
+
+4. Commit and push your changes to your forked repository.
+
+5. Submit a pull request with a clear description of your changes and their purpose.
+
+## License
+
+Free to use. Mail me for access
+
+## Acknowledgments
+
+- [Roku Developer Documentation](https://developer.roku.com/docs) for providing valuable resources and guidance.
+- [OpenAI](https://openai.com/) for developing the ChatGPT model that helped in creating this README template.
+
+## Contact
+
+For any questions or inquiries regarding the Game Launcher for Roku, please contact:
+
+Gokul
+gokulplkl@gmail.com
+https://gokul.super.site/
