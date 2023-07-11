@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<component name="HomeScene" extends="Scene">
+    <script type="text/brightscript" uri="./HomeScene.brs"/>
+	<children>
+        <Label id="titleLabel" text="Select the Game you wanna play"/>
+        <LabelList id = "gameListing" translation = "[160,92]" itemSize = "[440,48]" >
+        <ContentNode id = "GameListContent" role = "content" >
+            <ContentNode title = "Snake Game"/>
+            <ContentNode title = "Card Game"/>
+        </ContentNode>
+      </LabelList>
+    </children>
+</component>
