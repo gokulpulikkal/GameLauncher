@@ -37,10 +37,6 @@ Contributions to the Game Launcher for Roku project are welcome! If you would li
 
 5. Submit a pull request with a clear description of your changes and their purpose.
 
-## License
-
-Free to use. Mail me for access
-
 ## Acknowledgments
 
 - [Roku Developer Documentation](https://developer.roku.com/docs) for providing valuable resources and guidance.
